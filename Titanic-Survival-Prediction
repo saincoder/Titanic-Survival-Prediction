@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "aec01ff3",
+   "id": "d98cdb4b",
    "metadata": {
     "papermill": {
-     "duration": 0.01082,
-     "end_time": "2024-07-11T11:40:31.461565",
+     "duration": 0.015496,
+     "end_time": "2024-07-12T05:14:13.581248",
      "exception": false,
-     "start_time": "2024-07-11T11:40:31.450745",
+     "start_time": "2024-07-12T05:14:13.565752",
      "status": "completed"
     },
     "tags": []
@@ -20,19 +20,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "21fa2b25",
+   "id": "92857c78",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:31.484405Z",
-     "iopub.status.busy": "2024-07-11T11:40:31.483463Z",
-     "iopub.status.idle": "2024-07-11T11:40:33.929616Z",
-     "shell.execute_reply": "2024-07-11T11:40:33.928782Z"
+     "iopub.execute_input": "2024-07-12T05:14:13.613544Z",
+     "iopub.status.busy": "2024-07-12T05:14:13.613165Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.492257Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.491093Z"
     },
     "papermill": {
-     "duration": 2.460109,
-     "end_time": "2024-07-11T11:40:33.932101",
+     "duration": 2.898103,
+     "end_time": "2024-07-12T05:14:16.494808",
      "exception": false,
-     "start_time": "2024-07-11T11:40:31.471992",
+     "start_time": "2024-07-12T05:14:13.596705",
      "status": "completed"
     },
     "tags": []
@@ -55,21 +55,21 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "197d2a5a",
+   "id": "5f56fdc5",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:33.954980Z",
-     "iopub.status.busy": "2024-07-11T11:40:33.954446Z",
-     "iopub.status.idle": "2024-07-11T11:40:33.962476Z",
-     "shell.execute_reply": "2024-07-11T11:40:33.961382Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.528563Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.527395Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.535678Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.534347Z"
     },
     "papermill": {
-     "duration": 0.021781,
-     "end_time": "2024-07-11T11:40:33.964647",
+     "duration": 0.027062,
+     "end_time": "2024-07-12T05:14:16.537995",
      "exception": false,
-     "start_time": "2024-07-11T11:40:33.942866",
+     "start_time": "2024-07-12T05:14:16.510933",
      "status": "completed"
     },
     "tags": []
@@ -107,13 +107,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "891a5fa3",
+   "id": "01936063",
    "metadata": {
     "papermill": {
-     "duration": 0.010909,
-     "end_time": "2024-07-11T11:40:33.986269",
+     "duration": 0.01568,
+     "end_time": "2024-07-12T05:14:16.569049",
      "exception": false,
-     "start_time": "2024-07-11T11:40:33.975360",
+     "start_time": "2024-07-12T05:14:16.553369",
      "status": "completed"
     },
     "tags": []
@@ -125,19 +125,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "7d6c9569",
+   "id": "75d1fb99",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.009962Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.009537Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.050966Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.049884Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.601267Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.600886Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.643385Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.642342Z"
     },
     "papermill": {
-     "duration": 0.055621,
-     "end_time": "2024-07-11T11:40:34.053237",
+     "duration": 0.0613,
+     "end_time": "2024-07-12T05:14:16.645770",
      "exception": false,
-     "start_time": "2024-07-11T11:40:33.997616",
+     "start_time": "2024-07-12T05:14:16.584470",
      "status": "completed"
     },
     "tags": []
@@ -294,19 +294,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "8c106958",
+   "id": "99916b99",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.076182Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.075789Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.096191Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.095067Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.678825Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.678421Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.699417Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.698210Z"
     },
     "papermill": {
-     "duration": 0.034483,
-     "end_time": "2024-07-11T11:40:34.098464",
+     "duration": 0.040553,
+     "end_time": "2024-07-12T05:14:16.702033",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.063981",
+     "start_time": "2024-07-12T05:14:16.661480",
      "status": "completed"
     },
     "tags": []
@@ -450,19 +450,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "641cb323",
+   "id": "c46d5f45",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.121878Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.121476Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.126633Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.125634Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.736201Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.735420Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.740921Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.739897Z"
     },
     "papermill": {
-     "duration": 0.019532,
-     "end_time": "2024-07-11T11:40:34.128980",
+     "duration": 0.024792,
+     "end_time": "2024-07-12T05:14:16.742909",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.109448",
+     "start_time": "2024-07-12T05:14:16.718117",
      "status": "completed"
     },
     "tags": []
@@ -484,13 +484,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0c576acb",
+   "id": "a9e07790",
    "metadata": {
     "papermill": {
-     "duration": 0.011066,
-     "end_time": "2024-07-11T11:40:34.151612",
+     "duration": 0.015379,
+     "end_time": "2024-07-12T05:14:16.774094",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.140546",
+     "start_time": "2024-07-12T05:14:16.758715",
      "status": "completed"
     },
     "tags": []
@@ -502,19 +502,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "69e2db21",
+   "id": "c5e10536",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.175427Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.175045Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.197837Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.196817Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.808564Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.808144Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.830925Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.829907Z"
     },
     "papermill": {
-     "duration": 0.037198,
-     "end_time": "2024-07-11T11:40:34.200050",
+     "duration": 0.042699,
+     "end_time": "2024-07-12T05:14:16.833281",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.162852",
+     "start_time": "2024-07-12T05:14:16.790582",
      "status": "completed"
     },
     "tags": []
@@ -781,19 +781,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "9f2479ae",
+   "id": "e119482c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.225411Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.225028Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.246469Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.245325Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.867791Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.867280Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.890581Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.889489Z"
     },
     "papermill": {
-     "duration": 0.036797,
-     "end_time": "2024-07-11T11:40:34.248748",
+     "duration": 0.043362,
+     "end_time": "2024-07-12T05:14:16.893165",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.211951",
+     "start_time": "2024-07-12T05:14:16.849803",
      "status": "completed"
     },
     "tags": []
@@ -832,19 +832,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "56d4be3a",
+   "id": "a7276fdc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.273471Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.273082Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.302332Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.301313Z"
+     "iopub.execute_input": "2024-07-12T05:14:16.929463Z",
+     "iopub.status.busy": "2024-07-12T05:14:16.929078Z",
+     "iopub.status.idle": "2024-07-12T05:14:16.960200Z",
+     "shell.execute_reply": "2024-07-12T05:14:16.959158Z"
     },
     "papermill": {
-     "duration": 0.044247,
-     "end_time": "2024-07-11T11:40:34.304566",
+     "duration": 0.052273,
+     "end_time": "2024-07-12T05:14:16.962545",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.260319",
+     "start_time": "2024-07-12T05:14:16.910272",
      "status": "completed"
     },
     "tags": []
@@ -998,13 +998,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1675b4c2",
+   "id": "dad9c560",
    "metadata": {
     "papermill": {
-     "duration": 0.011528,
-     "end_time": "2024-07-11T11:40:34.327692",
+     "duration": 0.016677,
+     "end_time": "2024-07-12T05:14:16.996052",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.316164",
+     "start_time": "2024-07-12T05:14:16.979375",
      "status": "completed"
     },
     "tags": []
@@ -1016,19 +1016,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "93b41f6c",
+   "id": "5e23c105",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.354012Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.353624Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.361907Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.360891Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.031960Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.031536Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.040447Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.039389Z"
     },
     "papermill": {
-     "duration": 0.023426,
-     "end_time": "2024-07-11T11:40:34.364112",
+     "duration": 0.029731,
+     "end_time": "2024-07-12T05:14:17.042842",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.340686",
+     "start_time": "2024-07-12T05:14:17.013111",
      "status": "completed"
     },
     "tags": []
@@ -1064,19 +1064,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "581156ce",
+   "id": "78c6341f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.389716Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.389344Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.395705Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.394795Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.078644Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.077697Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.084905Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.083780Z"
     },
     "papermill": {
-     "duration": 0.021771,
-     "end_time": "2024-07-11T11:40:34.397742",
+     "duration": 0.027431,
+     "end_time": "2024-07-12T05:14:17.087135",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.375971",
+     "start_time": "2024-07-12T05:14:17.059704",
      "status": "completed"
     },
     "tags": []
@@ -1102,19 +1102,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "bba76a45",
+   "id": "cc200e8c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.423050Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.422645Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.431898Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.430864Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.123524Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.123142Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.135082Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.133641Z"
     },
     "papermill": {
-     "duration": 0.024261,
-     "end_time": "2024-07-11T11:40:34.433933",
+     "duration": 0.033644,
+     "end_time": "2024-07-12T05:14:17.137755",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.409672",
+     "start_time": "2024-07-12T05:14:17.104111",
      "status": "completed"
     },
     "tags": []
@@ -1152,19 +1152,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "db14e3ac",
+   "id": "a2a4d18d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.459734Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.458921Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.463871Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.462894Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.173528Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.173157Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.178352Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.177282Z"
     },
     "papermill": {
-     "duration": 0.019984,
-     "end_time": "2024-07-11T11:40:34.465946",
+     "duration": 0.025606,
+     "end_time": "2024-07-12T05:14:17.180542",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.445962",
+     "start_time": "2024-07-12T05:14:17.154936",
      "status": "completed"
     },
     "tags": []
@@ -1177,19 +1177,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "9d28bb57",
+   "id": "be4bd2d7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.491033Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.490625Z",
-     "iopub.status.idle": "2024-07-11T11:40:34.497559Z",
-     "shell.execute_reply": "2024-07-11T11:40:34.496603Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.217147Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.216776Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.224390Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.223329Z"
     },
     "papermill": {
-     "duration": 0.021926,
-     "end_time": "2024-07-11T11:40:34.499636",
+     "duration": 0.02907,
+     "end_time": "2024-07-12T05:14:17.226657",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.477710",
+     "start_time": "2024-07-12T05:14:17.197587",
      "status": "completed"
     },
     "tags": []
@@ -1220,13 +1220,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "eb8f8ed1",
+   "id": "64aff826",
    "metadata": {
     "papermill": {
-     "duration": 0.011549,
-     "end_time": "2024-07-11T11:40:34.522938",
+     "duration": 0.017285,
+     "end_time": "2024-07-12T05:14:17.261455",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.511389",
+     "start_time": "2024-07-12T05:14:17.244170",
      "status": "completed"
     },
     "tags": []
@@ -1238,19 +1238,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "9f9dc54c",
+   "id": "f3fc77b7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:34.548206Z",
-     "iopub.status.busy": "2024-07-11T11:40:34.547844Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.056135Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.055083Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.298669Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.298259Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.825936Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.824796Z"
     },
     "papermill": {
-     "duration": 0.524095,
-     "end_time": "2024-07-11T11:40:35.058838",
+     "duration": 0.549523,
+     "end_time": "2024-07-12T05:14:17.828489",
      "exception": false,
-     "start_time": "2024-07-11T11:40:34.534743",
+     "start_time": "2024-07-12T05:14:17.278966",
      "status": "completed"
     },
     "tags": []
@@ -1276,13 +1276,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6a63b0a7",
+   "id": "35344a04",
    "metadata": {
     "papermill": {
-     "duration": 0.012436,
-     "end_time": "2024-07-11T11:40:35.084048",
+     "duration": 0.025376,
+     "end_time": "2024-07-12T05:14:17.934807",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.071612",
+     "start_time": "2024-07-12T05:14:17.909431",
      "status": "completed"
     },
     "tags": []
@@ -1294,19 +1294,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "1c1153f6",
+   "id": "0ecedbb6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.111281Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.110858Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.117528Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.116537Z"
+     "iopub.execute_input": "2024-07-12T05:14:17.974074Z",
+     "iopub.status.busy": "2024-07-12T05:14:17.973685Z",
+     "iopub.status.idle": "2024-07-12T05:14:17.980374Z",
+     "shell.execute_reply": "2024-07-12T05:14:17.979325Z"
     },
     "papermill": {
-     "duration": 0.022906,
-     "end_time": "2024-07-11T11:40:35.119777",
+     "duration": 0.028307,
+     "end_time": "2024-07-12T05:14:17.982738",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.096871",
+     "start_time": "2024-07-12T05:14:17.954431",
      "status": "completed"
     },
     "tags": []
@@ -1319,19 +1319,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "b9ff4099",
+   "id": "e07243b0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.147304Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.146556Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.153825Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.152521Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.022440Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.021436Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.028976Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.027921Z"
     },
     "papermill": {
-     "duration": 0.023367,
-     "end_time": "2024-07-11T11:40:35.155956",
+     "duration": 0.029616,
+     "end_time": "2024-07-12T05:14:18.031270",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.132589",
+     "start_time": "2024-07-12T05:14:18.001654",
      "status": "completed"
     },
     "tags": []
@@ -1354,13 +1354,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2b8bd213",
+   "id": "bd0b5786",
    "metadata": {
     "papermill": {
-     "duration": 0.068022,
-     "end_time": "2024-07-11T11:40:35.237329",
+     "duration": 0.026886,
+     "end_time": "2024-07-12T05:14:18.082021",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.169307",
+     "start_time": "2024-07-12T05:14:18.055135",
      "status": "completed"
     },
     "tags": []
@@ -1372,19 +1372,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "57a2af6c",
+   "id": "6d582dc7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.265547Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.264815Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.274687Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.273664Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.137286Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.136512Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.151710Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.150476Z"
     },
     "papermill": {
-     "duration": 0.026674,
-     "end_time": "2024-07-11T11:40:35.277114",
+     "duration": 0.044561,
+     "end_time": "2024-07-12T05:14:18.154347",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.250440",
+     "start_time": "2024-07-12T05:14:18.109786",
      "status": "completed"
     },
     "tags": []
@@ -1405,19 +1405,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "bd1e9eb6",
+   "id": "2eecfe75",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.304592Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.304200Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.319126Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.317931Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.193091Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.192698Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.208191Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.207117Z"
     },
     "papermill": {
-     "duration": 0.031018,
-     "end_time": "2024-07-11T11:40:35.321192",
+     "duration": 0.037506,
+     "end_time": "2024-07-12T05:14:18.210364",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.290174",
+     "start_time": "2024-07-12T05:14:18.172858",
      "status": "completed"
     },
     "tags": []
@@ -1572,13 +1572,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "611c4f9b",
+   "id": "2acde0af",
    "metadata": {
     "papermill": {
-     "duration": 0.014328,
-     "end_time": "2024-07-11T11:40:35.349019",
+     "duration": 0.024542,
+     "end_time": "2024-07-12T05:14:18.253418",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.334691",
+     "start_time": "2024-07-12T05:14:18.228876",
      "status": "completed"
     },
     "tags": []
@@ -1592,19 +1592,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "f62d15e2",
+   "id": "54157a96",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.377423Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.377020Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.386029Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.385061Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.294256Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.293880Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.303090Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.301941Z"
     },
     "papermill": {
-     "duration": 0.025718,
-     "end_time": "2024-07-11T11:40:35.388157",
+     "duration": 0.031656,
+     "end_time": "2024-07-12T05:14:18.305368",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.362439",
+     "start_time": "2024-07-12T05:14:18.273712",
      "status": "completed"
     },
     "tags": []
@@ -1618,19 +1618,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "395a5abf",
+   "id": "c7b0f763",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.417148Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.416105Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.424730Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.423669Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.348028Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.347141Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.356235Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.355163Z"
     },
     "papermill": {
-     "duration": 0.02541,
-     "end_time": "2024-07-11T11:40:35.427125",
+     "duration": 0.031127,
+     "end_time": "2024-07-12T05:14:18.358431",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.401715",
+     "start_time": "2024-07-12T05:14:18.327304",
      "status": "completed"
     },
     "tags": []
@@ -1664,13 +1664,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "20fa566a",
+   "id": "b75fbc4d",
    "metadata": {
     "papermill": {
-     "duration": 0.013065,
-     "end_time": "2024-07-11T11:40:35.454205",
+     "duration": 0.018181,
+     "end_time": "2024-07-12T05:14:18.395263",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.441140",
+     "start_time": "2024-07-12T05:14:18.377082",
      "status": "completed"
     },
     "tags": []
@@ -1682,19 +1682,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "6306e42a",
+   "id": "3d46a837",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.482533Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.482149Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.489205Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.488261Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.434519Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.434141Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.441128Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.440105Z"
     },
     "papermill": {
-     "duration": 0.023483,
-     "end_time": "2024-07-11T11:40:35.491198",
+     "duration": 0.029182,
+     "end_time": "2024-07-12T05:14:18.443304",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.467715",
+     "start_time": "2024-07-12T05:14:18.414122",
      "status": "completed"
     },
     "tags": []
@@ -1708,19 +1708,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "3a5ef9e2",
+   "id": "e11a9039",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.520382Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.519347Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.535840Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.534808Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.482379Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.481403Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.497439Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.496456Z"
     },
     "papermill": {
-     "duration": 0.033633,
-     "end_time": "2024-07-11T11:40:35.538201",
+     "duration": 0.038445,
+     "end_time": "2024-07-12T05:14:18.500019",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.504568",
+     "start_time": "2024-07-12T05:14:18.461574",
      "status": "completed"
     },
     "tags": []
@@ -1938,19 +1938,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "69bb8432",
+   "id": "7a50fad2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.568018Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.567632Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.582468Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.581428Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.539053Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.538653Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.553920Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.552990Z"
     },
     "papermill": {
-     "duration": 0.032041,
-     "end_time": "2024-07-11T11:40:35.584730",
+     "duration": 0.037109,
+     "end_time": "2024-07-12T05:14:18.556045",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.552689",
+     "start_time": "2024-07-12T05:14:18.518936",
      "status": "completed"
     },
     "tags": []
@@ -2156,19 +2156,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "639f0278",
+   "id": "c3b03577",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.614388Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.614011Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.621649Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.620540Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.596292Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.595882Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.604723Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.603632Z"
     },
     "papermill": {
-     "duration": 0.0253,
-     "end_time": "2024-07-11T11:40:35.624020",
+     "duration": 0.031636,
+     "end_time": "2024-07-12T05:14:18.607068",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.598720",
+     "start_time": "2024-07-12T05:14:18.575432",
      "status": "completed"
     },
     "tags": []
@@ -2201,19 +2201,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "a5b5e84f",
+   "id": "0b45c891",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.654656Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.653640Z",
-     "iopub.status.idle": "2024-07-11T11:40:35.661794Z",
-     "shell.execute_reply": "2024-07-11T11:40:35.660840Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.648881Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.647798Z",
+     "iopub.status.idle": "2024-07-12T05:14:18.656414Z",
+     "shell.execute_reply": "2024-07-12T05:14:18.655317Z"
     },
     "papermill": {
-     "duration": 0.025617,
-     "end_time": "2024-07-11T11:40:35.663907",
+     "duration": 0.032054,
+     "end_time": "2024-07-12T05:14:18.658643",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.638290",
+     "start_time": "2024-07-12T05:14:18.626589",
      "status": "completed"
     },
     "tags": []
@@ -2244,13 +2244,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cebc501c",
+   "id": "277924f0",
    "metadata": {
     "papermill": {
-     "duration": 0.014225,
-     "end_time": "2024-07-11T11:40:35.692683",
+     "duration": 0.020053,
+     "end_time": "2024-07-12T05:14:18.698264",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.678458",
+     "start_time": "2024-07-12T05:14:18.678211",
      "status": "completed"
     },
     "tags": []
@@ -2262,19 +2262,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "a3a12cf7",
+   "id": "f7b01f45",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:35.723096Z",
-     "iopub.status.busy": "2024-07-11T11:40:35.722697Z",
-     "iopub.status.idle": "2024-07-11T11:40:37.062666Z",
-     "shell.execute_reply": "2024-07-11T11:40:37.061703Z"
+     "iopub.execute_input": "2024-07-12T05:14:18.739790Z",
+     "iopub.status.busy": "2024-07-12T05:14:18.739386Z",
+     "iopub.status.idle": "2024-07-12T05:14:20.295496Z",
+     "shell.execute_reply": "2024-07-12T05:14:20.294481Z"
     },
     "papermill": {
-     "duration": 1.357798,
-     "end_time": "2024-07-11T11:40:37.064898",
+     "duration": 1.579994,
+     "end_time": "2024-07-12T05:14:20.297940",
      "exception": false,
-     "start_time": "2024-07-11T11:40:35.707100",
+     "start_time": "2024-07-12T05:14:18.717946",
      "status": "completed"
     },
     "tags": []
@@ -2353,19 +2353,19 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "b1893dc1",
+   "id": "e4d5719d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:37.100661Z",
-     "iopub.status.busy": "2024-07-11T11:40:37.099891Z",
-     "iopub.status.idle": "2024-07-11T11:40:37.463687Z",
-     "shell.execute_reply": "2024-07-11T11:40:37.462628Z"
+     "iopub.execute_input": "2024-07-12T05:14:20.344065Z",
+     "iopub.status.busy": "2024-07-12T05:14:20.343645Z",
+     "iopub.status.idle": "2024-07-12T05:14:20.736829Z",
+     "shell.execute_reply": "2024-07-12T05:14:20.735831Z"
     },
     "papermill": {
-     "duration": 0.384415,
-     "end_time": "2024-07-11T11:40:37.466010",
+     "duration": 0.419098,
+     "end_time": "2024-07-12T05:14:20.739186",
      "exception": false,
-     "start_time": "2024-07-11T11:40:37.081595",
+     "start_time": "2024-07-12T05:14:20.320088",
      "status": "completed"
     },
     "tags": []
@@ -2400,19 +2400,19 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "beb0282a",
+   "id": "de30443c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:37.502813Z",
-     "iopub.status.busy": "2024-07-11T11:40:37.502094Z",
-     "iopub.status.idle": "2024-07-11T11:40:37.707452Z",
-     "shell.execute_reply": "2024-07-11T11:40:37.706293Z"
+     "iopub.execute_input": "2024-07-12T05:14:20.786369Z",
+     "iopub.status.busy": "2024-07-12T05:14:20.785515Z",
+     "iopub.status.idle": "2024-07-12T05:14:21.042250Z",
+     "shell.execute_reply": "2024-07-12T05:14:21.040883Z"
     },
     "papermill": {
-     "duration": 0.226333,
-     "end_time": "2024-07-11T11:40:37.709851",
+     "duration": 0.284174,
+     "end_time": "2024-07-12T05:14:21.045796",
      "exception": false,
-     "start_time": "2024-07-11T11:40:37.483518",
+     "start_time": "2024-07-12T05:14:20.761622",
      "status": "completed"
     },
     "tags": []
@@ -2439,19 +2439,19 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "c8f5f8b8",
+   "id": "b7f85c15",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:37.747553Z",
-     "iopub.status.busy": "2024-07-11T11:40:37.746635Z",
-     "iopub.status.idle": "2024-07-11T11:40:38.056465Z",
-     "shell.execute_reply": "2024-07-11T11:40:38.055387Z"
+     "iopub.execute_input": "2024-07-12T05:14:21.106104Z",
+     "iopub.status.busy": "2024-07-12T05:14:21.105600Z",
+     "iopub.status.idle": "2024-07-12T05:14:21.502280Z",
+     "shell.execute_reply": "2024-07-12T05:14:21.501101Z"
     },
     "papermill": {
-     "duration": 0.331201,
-     "end_time": "2024-07-11T11:40:38.058918",
+     "duration": 0.42998,
+     "end_time": "2024-07-12T05:14:21.504729",
      "exception": false,
-     "start_time": "2024-07-11T11:40:37.727717",
+     "start_time": "2024-07-12T05:14:21.074749",
      "status": "completed"
     },
     "tags": []
@@ -2486,19 +2486,19 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "2bc0960c",
+   "id": "9a080b2d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:38.097850Z",
-     "iopub.status.busy": "2024-07-11T11:40:38.096915Z",
-     "iopub.status.idle": "2024-07-11T11:40:38.284596Z",
-     "shell.execute_reply": "2024-07-11T11:40:38.283555Z"
+     "iopub.execute_input": "2024-07-12T05:14:21.555714Z",
+     "iopub.status.busy": "2024-07-12T05:14:21.555324Z",
+     "iopub.status.idle": "2024-07-12T05:14:21.798788Z",
+     "shell.execute_reply": "2024-07-12T05:14:21.797706Z"
     },
     "papermill": {
-     "duration": 0.209994,
-     "end_time": "2024-07-11T11:40:38.287333",
+     "duration": 0.271754,
+     "end_time": "2024-07-12T05:14:21.801210",
      "exception": false,
-     "start_time": "2024-07-11T11:40:38.077339",
+     "start_time": "2024-07-12T05:14:21.529456",
      "status": "completed"
     },
     "tags": []
@@ -2524,13 +2524,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "08aeb9d1",
+   "id": "fa7ecca2",
    "metadata": {
     "papermill": {
-     "duration": 0.026302,
-     "end_time": "2024-07-11T11:40:38.333207",
+     "duration": 0.023976,
+     "end_time": "2024-07-12T05:14:21.850057",
      "exception": false,
-     "start_time": "2024-07-11T11:40:38.306905",
+     "start_time": "2024-07-12T05:14:21.826081",
      "status": "completed"
     },
     "tags": []
@@ -2542,19 +2542,19 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "d770dff6",
+   "id": "7bd00b35",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:38.380226Z",
-     "iopub.status.busy": "2024-07-11T11:40:38.379388Z",
-     "iopub.status.idle": "2024-07-11T11:40:40.318644Z",
-     "shell.execute_reply": "2024-07-11T11:40:40.317530Z"
+     "iopub.execute_input": "2024-07-12T05:14:21.899942Z",
+     "iopub.status.busy": "2024-07-12T05:14:21.899449Z",
+     "iopub.status.idle": "2024-07-12T05:14:23.823811Z",
+     "shell.execute_reply": "2024-07-12T05:14:23.822837Z"
     },
     "papermill": {
-     "duration": 1.9648,
-     "end_time": "2024-07-11T11:40:40.321077",
+     "duration": 1.952423,
+     "end_time": "2024-07-12T05:14:23.826505",
      "exception": false,
-     "start_time": "2024-07-11T11:40:38.356277",
+     "start_time": "2024-07-12T05:14:21.874082",
      "status": "completed"
     },
     "tags": []
@@ -2631,13 +2631,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6b26ea22",
+   "id": "8e2a9614",
    "metadata": {
     "papermill": {
-     "duration": 0.021432,
-     "end_time": "2024-07-11T11:40:40.363045",
+     "duration": 0.026701,
+     "end_time": "2024-07-12T05:14:23.879614",
      "exception": false,
-     "start_time": "2024-07-11T11:40:40.341613",
+     "start_time": "2024-07-12T05:14:23.852913",
      "status": "completed"
     },
     "tags": []
@@ -2648,13 +2648,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "62181bf9",
+   "id": "2a90a1a1",
    "metadata": {
     "papermill": {
-     "duration": 0.020133,
-     "end_time": "2024-07-11T11:40:40.404185",
+     "duration": 0.02506,
+     "end_time": "2024-07-12T05:14:23.930740",
      "exception": false,
-     "start_time": "2024-07-11T11:40:40.384052",
+     "start_time": "2024-07-12T05:14:23.905680",
      "status": "completed"
     },
     "tags": []
@@ -2666,19 +2666,19 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "2f1e4d2f",
+   "id": "72a5ea48",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:40.446924Z",
-     "iopub.status.busy": "2024-07-11T11:40:40.446524Z",
-     "iopub.status.idle": "2024-07-11T11:40:40.452905Z",
-     "shell.execute_reply": "2024-07-11T11:40:40.451747Z"
+     "iopub.execute_input": "2024-07-12T05:14:23.984590Z",
+     "iopub.status.busy": "2024-07-12T05:14:23.984184Z",
+     "iopub.status.idle": "2024-07-12T05:14:23.990863Z",
+     "shell.execute_reply": "2024-07-12T05:14:23.989744Z"
     },
     "papermill": {
-     "duration": 0.030518,
-     "end_time": "2024-07-11T11:40:40.455150",
+     "duration": 0.035699,
+     "end_time": "2024-07-12T05:14:23.993079",
      "exception": false,
-     "start_time": "2024-07-11T11:40:40.424632",
+     "start_time": "2024-07-12T05:14:23.957380",
      "status": "completed"
     },
     "tags": []
@@ -2692,19 +2692,19 @@
   {
    "cell_type": "code",
    "execution_count": 33,
-   "id": "47053b32",
+   "id": "434a6dbe",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:40.497898Z",
-     "iopub.status.busy": "2024-07-11T11:40:40.497221Z",
-     "iopub.status.idle": "2024-07-11T11:40:40.991574Z",
-     "shell.execute_reply": "2024-07-11T11:40:40.990540Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.046444Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.045691Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.510277Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.509154Z"
     },
     "papermill": {
-     "duration": 0.518193,
-     "end_time": "2024-07-11T11:40:40.993745",
+     "duration": 0.493956,
+     "end_time": "2024-07-12T05:14:24.512667",
      "exception": false,
-     "start_time": "2024-07-11T11:40:40.475552",
+     "start_time": "2024-07-12T05:14:24.018711",
      "status": "completed"
     },
     "tags": []
@@ -2730,13 +2730,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "00d38a2b",
+   "id": "9164adf9",
    "metadata": {
     "papermill": {
-     "duration": 0.021213,
-     "end_time": "2024-07-11T11:40:41.036499",
+     "duration": 0.027259,
+     "end_time": "2024-07-12T05:14:24.566909",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.015286",
+     "start_time": "2024-07-12T05:14:24.539650",
      "status": "completed"
     },
     "tags": []
@@ -2748,19 +2748,19 @@
   {
    "cell_type": "code",
    "execution_count": 34,
-   "id": "517f2620",
+   "id": "be5bcbc5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:41.081588Z",
-     "iopub.status.busy": "2024-07-11T11:40:41.080696Z",
-     "iopub.status.idle": "2024-07-11T11:40:41.089542Z",
-     "shell.execute_reply": "2024-07-11T11:40:41.088354Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.623271Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.622871Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.632225Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.631059Z"
     },
     "papermill": {
-     "duration": 0.033757,
-     "end_time": "2024-07-11T11:40:41.091706",
+     "duration": 0.040708,
+     "end_time": "2024-07-12T05:14:24.634483",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.057949",
+     "start_time": "2024-07-12T05:14:24.593775",
      "status": "completed"
     },
     "tags": []
@@ -2792,19 +2792,19 @@
   {
    "cell_type": "code",
    "execution_count": 35,
-   "id": "5c59f325",
+   "id": "49a0c275",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:41.137515Z",
-     "iopub.status.busy": "2024-07-11T11:40:41.136416Z",
-     "iopub.status.idle": "2024-07-11T11:40:41.147043Z",
-     "shell.execute_reply": "2024-07-11T11:40:41.146030Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.690037Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.689645Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.700758Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.699772Z"
     },
     "papermill": {
-     "duration": 0.035783,
-     "end_time": "2024-07-11T11:40:41.149207",
+     "duration": 0.042035,
+     "end_time": "2024-07-12T05:14:24.703077",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.113424",
+     "start_time": "2024-07-12T05:14:24.661042",
      "status": "completed"
     },
     "tags": []
@@ -2820,19 +2820,19 @@
   {
    "cell_type": "code",
    "execution_count": 36,
-   "id": "63dd20aa",
+   "id": "c0ee9846",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:41.194621Z",
-     "iopub.status.busy": "2024-07-11T11:40:41.193868Z",
-     "iopub.status.idle": "2024-07-11T11:40:41.209179Z",
-     "shell.execute_reply": "2024-07-11T11:40:41.208163Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.758358Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.757971Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.773414Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.772383Z"
     },
     "papermill": {
-     "duration": 0.040426,
-     "end_time": "2024-07-11T11:40:41.211305",
+     "duration": 0.046146,
+     "end_time": "2024-07-12T05:14:24.775841",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.170879",
+     "start_time": "2024-07-12T05:14:24.729695",
      "status": "completed"
     },
     "tags": []
@@ -3061,19 +3061,19 @@
   {
    "cell_type": "code",
    "execution_count": 37,
-   "id": "b8e9d775",
+   "id": "e49f1559",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:41.257873Z",
-     "iopub.status.busy": "2024-07-11T11:40:41.256766Z",
-     "iopub.status.idle": "2024-07-11T11:40:41.269533Z",
-     "shell.execute_reply": "2024-07-11T11:40:41.268496Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.833287Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.832907Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.845484Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.844478Z"
     },
     "papermill": {
-     "duration": 0.038359,
-     "end_time": "2024-07-11T11:40:41.271781",
+     "duration": 0.044268,
+     "end_time": "2024-07-12T05:14:24.847775",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.233422",
+     "start_time": "2024-07-12T05:14:24.803507",
      "status": "completed"
     },
     "tags": []
@@ -3172,19 +3172,19 @@
   {
    "cell_type": "code",
    "execution_count": 38,
-   "id": "09929c19",
+   "id": "a18fb019",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:41.318829Z",
-     "iopub.status.busy": "2024-07-11T11:40:41.317913Z",
-     "iopub.status.idle": "2024-07-11T11:40:41.331185Z",
-     "shell.execute_reply": "2024-07-11T11:40:41.330112Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.904751Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.904291Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.918135Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.917114Z"
     },
     "papermill": {
-     "duration": 0.039315,
-     "end_time": "2024-07-11T11:40:41.333490",
+     "duration": 0.044964,
+     "end_time": "2024-07-12T05:14:24.920431",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.294175",
+     "start_time": "2024-07-12T05:14:24.875467",
      "status": "completed"
     },
     "tags": []
@@ -3315,19 +3315,19 @@
   {
    "cell_type": "code",
    "execution_count": 39,
-   "id": "40dfa77c",
+   "id": "f569299c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-11T11:40:41.383004Z",
-     "iopub.status.busy": "2024-07-11T11:40:41.382063Z",
-     "iopub.status.idle": "2024-07-11T11:40:41.394415Z",
-     "shell.execute_reply": "2024-07-11T11:40:41.393416Z"
+     "iopub.execute_input": "2024-07-12T05:14:24.980215Z",
+     "iopub.status.busy": "2024-07-12T05:14:24.979802Z",
+     "iopub.status.idle": "2024-07-12T05:14:24.993225Z",
+     "shell.execute_reply": "2024-07-12T05:14:24.991971Z"
     },
     "papermill": {
-     "duration": 0.040249,
-     "end_time": "2024-07-11T11:40:41.396571",
+     "duration": 0.045432,
+     "end_time": "2024-07-12T05:14:24.995533",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.356322",
+     "start_time": "2024-07-12T05:14:24.950101",
      "status": "completed"
     },
     "tags": []
@@ -3424,15 +3424,1579 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "83b5645e",
+   "cell_type": "markdown",
+   "id": "c74d8e7a",
    "metadata": {
     "papermill": {
-     "duration": 0.022798,
-     "end_time": "2024-07-11T11:40:41.443454",
+     "duration": 0.027715,
+     "end_time": "2024-07-12T05:14:25.052172",
      "exception": false,
-     "start_time": "2024-07-11T11:40:41.420656",
+     "start_time": "2024-07-12T05:14:25.024457",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "***Feature Engineering***"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "0e04baf8",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.111530Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.111117Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.121983Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.120875Z"
+    },
+    "papermill": {
+     "duration": 0.043027,
+     "end_time": "2024-07-12T05:14:25.124239",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.081212",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array(['Mr', 'Mrs', 'Miss', 'Master', 'Don', 'Rev', 'Dr', 'Mme', 'Ms',\n",
+       "       'Major', 'Lady', 'Sir', 'Mlle', 'Col', 'Capt', 'Countess',\n",
+       "       'Jonkheer'], dtype=object)"
+      ]
+     },
+     "execution_count": 40,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# extract title from train data (name)\n",
+    "train_data['Initials'] = train_data['Name'].str.extract('([A-Za-z]+)\\.', expand=False)\n",
+    "train_data.Initials.unique()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "id": "38c79518",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.183667Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.182747Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.192469Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.191274Z"
+    },
+    "papermill": {
+     "duration": 0.04189,
+     "end_time": "2024-07-12T05:14:25.194809",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.152919",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array(['Mr', 'Mrs', 'Miss', 'Master', 'Ms', 'Col', 'Rev', 'Dr', 'Dona'],\n",
+       "      dtype=object)"
+      ]
+     },
+     "execution_count": 41,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# extract title from test data (name)\n",
+    "test_data['Initials'] = test_data['Name'].str.extract('([A-Za-z]+)\\.', expand=False)\n",
+    "test_data.Initials.unique()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "68374482",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.253832Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.253404Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.262642Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.261653Z"
+    },
+    "papermill": {
+     "duration": 0.041625,
+     "end_time": "2024-07-12T05:14:25.264904",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.223279",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "title_mapping = {\n",
+    "    'Mlle': 'Miss', 'Mme': 'Miss', 'Ms': 'Miss', 'Dr': 'Mr', 'Major': 'Mr', 'Lady': 'Mrs',\n",
+    "    'Countess': 'Mrs', 'Jonkheer': 'Other', 'Col': 'Other', 'Rev': 'Other', 'Capt': 'Mr',\n",
+    "    'Sir': 'Mr', 'Don': 'Mr'\n",
+    "}\n",
+    "train_data['Initials'] = train_data['Initials'].replace(title_mapping)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "id": "d8123823",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.322535Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.322140Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.329640Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.328389Z"
+    },
+    "papermill": {
+     "duration": 0.039189,
+     "end_time": "2024-07-12T05:14:25.332088",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.292899",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "test_title_mapping = {\n",
+    "    'Ms': 'Miss', 'Dr': 'Mr', 'Col': 'Mr', 'Rev': 'Other', 'Dona': 'Other'\n",
+    "}\n",
+    "test_data['Initials'] = test_data['Initials'].replace(test_title_mapping)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "id": "2a8464e3",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.392018Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.391446Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.399526Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.398424Z"
+    },
+    "papermill": {
+     "duration": 0.041945,
+     "end_time": "2024-07-12T05:14:25.402788",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.360843",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array(['Mr', 'Mrs', 'Miss', 'Master', 'Other'], dtype=object)"
+      ]
+     },
+     "execution_count": 44,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.Initials.unique()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "79700e89",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.461722Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.461237Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.468787Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.467722Z"
+    },
+    "papermill": {
+     "duration": 0.0394,
+     "end_time": "2024-07-12T05:14:25.471072",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.431672",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array(['Mr', 'Mrs', 'Miss', 'Master', 'Other'], dtype=object)"
+      ]
+     },
+     "execution_count": 45,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test_data.Initials.unique()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "1e7b3e39",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.530804Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.530014Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.544977Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.543873Z"
+    },
+    "papermill": {
+     "duration": 0.047413,
+     "end_time": "2024-07-12T05:14:25.547308",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.499895",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>Initials</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Braund, Mr. Owen Harris</td>\n",
+       "      <td>1</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.2500</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mr</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n",
+       "      <td>0</td>\n",
+       "      <td>38.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>71.2833</td>\n",
+       "      <td>0</td>\n",
+       "      <td>Mrs</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Heikkinen, Miss. Laina</td>\n",
+       "      <td>0</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.9250</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Miss</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>53.1000</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mrs</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Allen, Mr. William Henry</td>\n",
+       "      <td>1</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.0500</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mr</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   Survived  Pclass                                               Name  Sex  \\\n",
+       "0         0       3                            Braund, Mr. Owen Harris    1   \n",
+       "1         1       1  Cumings, Mrs. John Bradley (Florence Briggs Th...    0   \n",
+       "2         1       3                             Heikkinen, Miss. Laina    0   \n",
+       "3         1       1       Futrelle, Mrs. Jacques Heath (Lily May Peel)    0   \n",
+       "4         0       3                           Allen, Mr. William Henry    1   \n",
+       "\n",
+       "    Age  SibSp  Parch     Fare  Embarked Initials  \n",
+       "0  22.0      1      0   7.2500         2       Mr  \n",
+       "1  38.0      1      0  71.2833         0      Mrs  \n",
+       "2  26.0      0      0   7.9250         2     Miss  \n",
+       "3  35.0      1      0  53.1000         2      Mrs  \n",
+       "4  35.0      0      0   8.0500         2       Mr  "
+      ]
+     },
+     "execution_count": 46,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "id": "c47afe82",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.606646Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.606224Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.618150Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.617046Z"
+    },
+    "papermill": {
+     "duration": 0.044551,
+     "end_time": "2024-07-12T05:14:25.620563",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.576012",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Initials\n",
+       "Master     4.574167\n",
+       "Miss      21.860000\n",
+       "Mr        32.739609\n",
+       "Mrs       35.981818\n",
+       "Other     45.888889\n",
+       "Name: Age, dtype: float64"
+      ]
+     },
+     "execution_count": 47,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.groupby('Initials')['Age'].mean()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "1de0bbb7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.680782Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.680385Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.690983Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.689757Z"
+    },
+    "papermill": {
+     "duration": 0.042939,
+     "end_time": "2024-07-12T05:14:25.693288",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.650349",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Initials\n",
+       "Master     7.406471\n",
+       "Miss      21.774844\n",
+       "Mr        32.306452\n",
+       "Mrs       38.903226\n",
+       "Other     36.666667\n",
+       "Name: Age, dtype: float64"
+      ]
+     },
+     "execution_count": 48,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test_data.groupby('Initials')['Age'].mean()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "id": "82a098db",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.754492Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.754103Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.773131Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.771880Z"
+    },
+    "papermill": {
+     "duration": 0.051772,
+     "end_time": "2024-07-12T05:14:25.775620",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.723848",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "age_fill_values = {\n",
+    "    'Mr': 33,\n",
+    "    'Mrs': 36,\n",
+    "    'Master': 5,\n",
+    "    'Miss': 22,\n",
+    "    'Other': 46\n",
+    "}\n",
+    "\n",
+    "# Apply the imputation\n",
+    "train_data['Age'] = train_data.apply(lambda row: age_fill_values[row['Initials']] if pd.isnull(row['Age']) else row['Age'], axis=1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 50,
+   "id": "19a3f42a",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.837275Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.836346Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.849317Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.848280Z"
+    },
+    "papermill": {
+     "duration": 0.046318,
+     "end_time": "2024-07-12T05:14:25.851841",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.805523",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "test_age_fill_values = {\n",
+    "    'Mr': 33,\n",
+    "    'Mrs': 39,\n",
+    "    'Master': 7,\n",
+    "    'Miss': 22,\n",
+    "    'Other': 47\n",
+    "}\n",
+    "\n",
+    "# Apply the imputation\n",
+    "test_data['Age'] = test_data.apply(lambda row: age_fill_values[row['Initials']] if pd.isnull(row['Age']) else row['Age'], axis=1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "id": "6f3ec017",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.911679Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.911279Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.920030Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.918934Z"
+    },
+    "papermill": {
+     "duration": 0.04163,
+     "end_time": "2024-07-12T05:14:25.922155",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.880525",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Survived    0\n",
+       "Pclass      0\n",
+       "Name        0\n",
+       "Sex         0\n",
+       "Age         0\n",
+       "SibSp       0\n",
+       "Parch       0\n",
+       "Fare        0\n",
+       "Embarked    0\n",
+       "Initials    0\n",
+       "dtype: int64"
+      ]
+     },
+     "execution_count": 51,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 52,
+   "id": "c38d740e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:25.983629Z",
+     "iopub.status.busy": "2024-07-12T05:14:25.983224Z",
+     "iopub.status.idle": "2024-07-12T05:14:25.995155Z",
+     "shell.execute_reply": "2024-07-12T05:14:25.993800Z"
+    },
+    "papermill": {
+     "duration": 0.044965,
+     "end_time": "2024-07-12T05:14:25.997628",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:25.952663",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "count    891.000000\n",
+       "mean      29.841942\n",
+       "std       13.281525\n",
+       "min        0.420000\n",
+       "25%       22.000000\n",
+       "50%       30.000000\n",
+       "75%       36.000000\n",
+       "max       80.000000\n",
+       "Name: Age, dtype: float64"
+      ]
+     },
+     "execution_count": 52,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.Age.describe()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "id": "c82a40e6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.058350Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.057969Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.069628Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.068649Z"
+    },
+    "papermill": {
+     "duration": 0.045267,
+     "end_time": "2024-07-12T05:14:26.072067",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.026800",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "bins = [0, 10, 20, 30, 40, 50, 60, 70, 80,float('inf')]\n",
+    "labels = [1, 2, 3, 4, 5, 6, 7, 8,9]\n",
+    "\n",
+    "# Create the Age_Group column using pd.cut, handling NaN separately\n",
+    "train_data['Age_Group'] = pd.cut(train_data['Age'], bins=bins, labels=labels, right=True, include_lowest=True)\n",
+    "\n",
+    "# Convert the categorical data to integers, while keeping NaN values as they are\n",
+    "train_data['Age_Group'] = train_data['Age_Group'].astype('Int64')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "id": "6cc736d5",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.133993Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.133601Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.142674Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.141569Z"
+    },
+    "papermill": {
+     "duration": 0.043087,
+     "end_time": "2024-07-12T05:14:26.144769",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.101682",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "test_data['Age_Group'] = pd.cut(test_data['Age'], bins=bins, labels=labels, right=True, include_lowest=True)\n",
+    "\n",
+    "# Convert the categorical data to integers, while keeping NaN values as they are\n",
+    "test_data['Age_Group'] = test_data['Age_Group'].astype('Int64')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 55,
+   "id": "1101777f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.205230Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.204847Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.213658Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.212643Z"
+    },
+    "papermill": {
+     "duration": 0.041557,
+     "end_time": "2024-07-12T05:14:26.215857",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.174300",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Survived     0\n",
+       "Pclass       0\n",
+       "Name         0\n",
+       "Sex          0\n",
+       "Age          0\n",
+       "SibSp        0\n",
+       "Parch        0\n",
+       "Fare         0\n",
+       "Embarked     0\n",
+       "Initials     0\n",
+       "Age_Group    0\n",
+       "dtype: int64"
+      ]
+     },
+     "execution_count": 55,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "id": "997d930a",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.278379Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.277992Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.286767Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.285687Z"
+    },
+    "papermill": {
+     "duration": 0.043355,
+     "end_time": "2024-07-12T05:14:26.288974",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.245619",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Pclass       0\n",
+       "Name         0\n",
+       "Sex          0\n",
+       "Age          0\n",
+       "SibSp        0\n",
+       "Parch        0\n",
+       "Fare         1\n",
+       "Embarked     0\n",
+       "Initials     0\n",
+       "Age_Group    0\n",
+       "dtype: int64"
+      ]
+     },
+     "execution_count": 56,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test_data.isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 57,
+   "id": "73dc9b7f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.351318Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.350923Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.357314Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.355927Z"
+    },
+    "papermill": {
+     "duration": 0.041093,
+     "end_time": "2024-07-12T05:14:26.359723",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.318630",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "test_data['Fare'] = test_data.Fare.fillna(test_data.Fare.mean())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "id": "c6353faf",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.420368Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.419432Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.425767Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.424634Z"
+    },
+    "papermill": {
+     "duration": 0.039027,
+     "end_time": "2024-07-12T05:14:26.427957",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.388930",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "train_data[\"Total_family_size\"] = train_data.SibSp + train_data.Parch"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 59,
+   "id": "d7605063",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.489691Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.489274Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.495828Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.494641Z"
+    },
+    "papermill": {
+     "duration": 0.040356,
+     "end_time": "2024-07-12T05:14:26.498344",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.457988",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "test_data[\"Total_family_size\"] = train_data.SibSp + train_data.Parch"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "id": "61747be1",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.561340Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.560356Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.577061Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.575975Z"
+    },
+    "papermill": {
+     "duration": 0.051317,
+     "end_time": "2024-07-12T05:14:26.579421",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.528104",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>Initials</th>\n",
+       "      <th>Age_Group</th>\n",
+       "      <th>Total_family_size</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Braund, Mr. Owen Harris</td>\n",
+       "      <td>1</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.2500</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mr</td>\n",
+       "      <td>3</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n",
+       "      <td>0</td>\n",
+       "      <td>38.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>71.2833</td>\n",
+       "      <td>0</td>\n",
+       "      <td>Mrs</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Heikkinen, Miss. Laina</td>\n",
+       "      <td>0</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.9250</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Miss</td>\n",
+       "      <td>3</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>53.1000</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mrs</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Allen, Mr. William Henry</td>\n",
+       "      <td>1</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.0500</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mr</td>\n",
+       "      <td>4</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   Survived  Pclass                                               Name  Sex  \\\n",
+       "0         0       3                            Braund, Mr. Owen Harris    1   \n",
+       "1         1       1  Cumings, Mrs. John Bradley (Florence Briggs Th...    0   \n",
+       "2         1       3                             Heikkinen, Miss. Laina    0   \n",
+       "3         1       1       Futrelle, Mrs. Jacques Heath (Lily May Peel)    0   \n",
+       "4         0       3                           Allen, Mr. William Henry    1   \n",
+       "\n",
+       "    Age  SibSp  Parch     Fare  Embarked Initials  Age_Group  \\\n",
+       "0  22.0      1      0   7.2500         2       Mr          3   \n",
+       "1  38.0      1      0  71.2833         0      Mrs          4   \n",
+       "2  26.0      0      0   7.9250         2     Miss          3   \n",
+       "3  35.0      1      0  53.1000         2      Mrs          4   \n",
+       "4  35.0      0      0   8.0500         2       Mr          4   \n",
+       "\n",
+       "   Total_family_size  \n",
+       "0                  1  \n",
+       "1                  1  \n",
+       "2                  0  \n",
+       "3                  1  \n",
+       "4                  0  "
+      ]
+     },
+     "execution_count": 60,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 61,
+   "id": "5e25c474",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.642124Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.641712Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.657353Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.656339Z"
+    },
+    "papermill": {
+     "duration": 0.049146,
+     "end_time": "2024-07-12T05:14:26.659424",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.610278",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>Initials</th>\n",
+       "      <th>Age_Group</th>\n",
+       "      <th>Total_family_size</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Kelly, Mr. James</td>\n",
+       "      <td>1</td>\n",
+       "      <td>34.5</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.8292</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Mr</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Wilkes, Mrs. James (Ellen Needs)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>47.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.0000</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mrs</td>\n",
+       "      <td>5</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>2</td>\n",
+       "      <td>Myles, Mr. Thomas Francis</td>\n",
+       "      <td>1</td>\n",
+       "      <td>62.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>9.6875</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Mr</td>\n",
+       "      <td>7</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Wirz, Mr. Albert</td>\n",
+       "      <td>1</td>\n",
+       "      <td>27.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.6625</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mr</td>\n",
+       "      <td>3</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Hirvonen, Mrs. Alexander (Helga E Lindqvist)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>12.2875</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Mrs</td>\n",
+       "      <td>3</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   Pclass                                          Name  Sex   Age  SibSp  \\\n",
+       "0       3                              Kelly, Mr. James    1  34.5      0   \n",
+       "1       3              Wilkes, Mrs. James (Ellen Needs)    0  47.0      1   \n",
+       "2       2                     Myles, Mr. Thomas Francis    1  62.0      0   \n",
+       "3       3                              Wirz, Mr. Albert    1  27.0      0   \n",
+       "4       3  Hirvonen, Mrs. Alexander (Helga E Lindqvist)    0  22.0      1   \n",
+       "\n",
+       "   Parch     Fare  Embarked Initials  Age_Group  Total_family_size  \n",
+       "0      0   7.8292         1       Mr          4                  1  \n",
+       "1      0   7.0000         2      Mrs          5                  1  \n",
+       "2      0   9.6875         1       Mr          7                  0  \n",
+       "3      0   8.6625         2       Mr          3                  1  \n",
+       "4      1  12.2875         2      Mrs          3                  0  "
+      ]
+     },
+     "execution_count": 61,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test_data.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 62,
+   "id": "8a771d78",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.722032Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.721227Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.728207Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.726905Z"
+    },
+    "papermill": {
+     "duration": 0.040889,
+     "end_time": "2024-07-12T05:14:26.730712",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.689823",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "\n",
+    "# Label encoding for 'Sex'\n",
+    "le_sex = LabelEncoder()\n",
+    "train_data['Initials'] = le_sex.fit_transform(train_data['Initials'])\n",
+    "test_data['Initials'] = le_sex.transform(test_data['Initials'])\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 63,
+   "id": "322802e8",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.792703Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.792256Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.807939Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.806830Z"
+    },
+    "papermill": {
+     "duration": 0.050025,
+     "end_time": "2024-07-12T05:14:26.810358",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.760333",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>Initials</th>\n",
+       "      <th>Age_Group</th>\n",
+       "      <th>Total_family_size</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Braund, Mr. Owen Harris</td>\n",
+       "      <td>1</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.2500</td>\n",
+       "      <td>2</td>\n",
+       "      <td>2</td>\n",
+       "      <td>3</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n",
+       "      <td>0</td>\n",
+       "      <td>38.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>71.2833</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Heikkinen, Miss. Laina</td>\n",
+       "      <td>0</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.9250</td>\n",
+       "      <td>2</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>53.1000</td>\n",
+       "      <td>2</td>\n",
+       "      <td>3</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Allen, Mr. William Henry</td>\n",
+       "      <td>1</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.0500</td>\n",
+       "      <td>2</td>\n",
+       "      <td>2</td>\n",
+       "      <td>4</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   Survived  Pclass                                               Name  Sex  \\\n",
+       "0         0       3                            Braund, Mr. Owen Harris    1   \n",
+       "1         1       1  Cumings, Mrs. John Bradley (Florence Briggs Th...    0   \n",
+       "2         1       3                             Heikkinen, Miss. Laina    0   \n",
+       "3         1       1       Futrelle, Mrs. Jacques Heath (Lily May Peel)    0   \n",
+       "4         0       3                           Allen, Mr. William Henry    1   \n",
+       "\n",
+       "    Age  SibSp  Parch     Fare  Embarked  Initials  Age_Group  \\\n",
+       "0  22.0      1      0   7.2500         2         2          3   \n",
+       "1  38.0      1      0  71.2833         0         3          4   \n",
+       "2  26.0      0      0   7.9250         2         1          3   \n",
+       "3  35.0      1      0  53.1000         2         3          4   \n",
+       "4  35.0      0      0   8.0500         2         2          4   \n",
+       "\n",
+       "   Total_family_size  \n",
+       "0                  1  \n",
+       "1                  1  \n",
+       "2                  0  \n",
+       "3                  1  \n",
+       "4                  0  "
+      ]
+     },
+     "execution_count": 63,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train_data.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 64,
+   "id": "105bca81",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.872387Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.871500Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.886640Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.885343Z"
+    },
+    "papermill": {
+     "duration": 0.048579,
+     "end_time": "2024-07-12T05:14:26.888895",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.840316",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>Initials</th>\n",
+       "      <th>Age_Group</th>\n",
+       "      <th>Total_family_size</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Kelly, Mr. James</td>\n",
+       "      <td>1</td>\n",
+       "      <td>34.5</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.8292</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2</td>\n",
+       "      <td>4</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Wilkes, Mrs. James (Ellen Needs)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>47.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.0000</td>\n",
+       "      <td>2</td>\n",
+       "      <td>3</td>\n",
+       "      <td>5</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>2</td>\n",
+       "      <td>Myles, Mr. Thomas Francis</td>\n",
+       "      <td>1</td>\n",
+       "      <td>62.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>9.6875</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2</td>\n",
+       "      <td>7</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Wirz, Mr. Albert</td>\n",
+       "      <td>1</td>\n",
+       "      <td>27.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.6625</td>\n",
+       "      <td>2</td>\n",
+       "      <td>2</td>\n",
+       "      <td>3</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>3</td>\n",
+       "      <td>Hirvonen, Mrs. Alexander (Helga E Lindqvist)</td>\n",
+       "      <td>0</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>12.2875</td>\n",
+       "      <td>2</td>\n",
+       "      <td>3</td>\n",
+       "      <td>3</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   Pclass                                          Name  Sex   Age  SibSp  \\\n",
+       "0       3                              Kelly, Mr. James    1  34.5      0   \n",
+       "1       3              Wilkes, Mrs. James (Ellen Needs)    0  47.0      1   \n",
+       "2       2                     Myles, Mr. Thomas Francis    1  62.0      0   \n",
+       "3       3                              Wirz, Mr. Albert    1  27.0      0   \n",
+       "4       3  Hirvonen, Mrs. Alexander (Helga E Lindqvist)    0  22.0      1   \n",
+       "\n",
+       "   Parch     Fare  Embarked  Initials  Age_Group  Total_family_size  \n",
+       "0      0   7.8292         1         2          4                  1  \n",
+       "1      0   7.0000         2         3          5                  1  \n",
+       "2      0   9.6875         1         2          7                  0  \n",
+       "3      0   8.6625         2         2          3                  1  \n",
+       "4      1  12.2875         2         3          3                  0  "
+      ]
+     },
+     "execution_count": 64,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test_data.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "id": "962a9b46",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-12T05:14:26.950428Z",
+     "iopub.status.busy": "2024-07-12T05:14:26.950044Z",
+     "iopub.status.idle": "2024-07-12T05:14:26.958758Z",
+     "shell.execute_reply": "2024-07-12T05:14:26.957564Z"
+    },
+    "papermill": {
+     "duration": 0.042016,
+     "end_time": "2024-07-12T05:14:26.960986",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.918970",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0      2\n",
+      "1      3\n",
+      "2      1\n",
+      "3      3\n",
+      "4      2\n",
+      "      ..\n",
+      "886    4\n",
+      "887    1\n",
+      "888    1\n",
+      "889    2\n",
+      "890    2\n",
+      "Name: Initials, Length: 891, dtype: int64\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(train_data['Initials'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ae73eda7",
+   "metadata": {
+    "papermill": {
+     "duration": 0.030232,
+     "end_time": "2024-07-12T05:14:27.022059",
+     "exception": false,
+     "start_time": "2024-07-12T05:14:26.991827",
      "status": "completed"
     },
     "tags": []
@@ -3476,14 +5040,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 13.252784,
-   "end_time": "2024-07-11T11:40:42.086966",
+   "duration": 17.10205,
+   "end_time": "2024-07-12T05:14:27.774371",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-07-11T11:40:28.834182",
+   "start_time": "2024-07-12T05:14:10.672321",
    "version": "2.5.0"
   }
  },
